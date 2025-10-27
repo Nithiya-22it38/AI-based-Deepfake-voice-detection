@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+librosa
+soundfile
+matplotlib
+scipy
+imbalanced-learn
+joblib
+tqdm
+jupyter
+seaborn

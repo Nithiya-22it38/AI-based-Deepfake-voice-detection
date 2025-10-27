@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Python virtual environment & caches
+pip-log.txt
+*.egg-info/
+dist/
+build/
+
+# data & audio (do NOT commit large audio files)
+data/segments/
+data/AUDIO/
+data/DATASET-balanced.csv
+
+# models (optional: or keep models if small)
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# logs
+*.log
